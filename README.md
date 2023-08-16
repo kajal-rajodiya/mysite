@@ -11,7 +11,11 @@ come true with elegant interfaces.i take great care in the experience, architect
 
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=kajal-rajodiya&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-rajodiya" /> </p>
 
-- 💬 Ask me about anything ,i am happy to help.
+- 🌱 I’m currently learning Spring Framework.
+
+- 👯 I’m looking to collaborate on react Projects.
+
+- 💬 Ask me about **C++,java**
 
 - 📫 How to reach me **kajalrajodiya1@gmail.com** 
 
