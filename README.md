@@ -3,11 +3,10 @@
 ![ll](https://user-images.githubusercontent.com/87375740/127341557-25ca4c11-4472-403f-a787-24b1ce87c1c5.jpg)
 
 <h1 align="center">Hi 👋, I'm Kajal Rajodiya</h1>
-a passionate full stack web developer and a freelance software engineer from india.my passion for software engineer lies with dreaming up ideas and making them 
-come true with elegant interfaces.i take great care in the experience, architecture,and code quality of the things i build. 
+Motivated Computer Science Engineering Graduate Fresher with 2 months of experience in Java, MySQL, React.js, HTML, CSS, and Spring Boot. Certified by CDAC and ready to embark on a software development career available to join immediately.
 
                                                 
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=kajal-rajodiya&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-rajodiya" /> </p>
 
